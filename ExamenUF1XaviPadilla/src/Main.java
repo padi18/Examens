@@ -200,7 +200,6 @@ public class Main {
 				Long codiABuscar = covid.getCodiCentre();
 				
 				if (codiABuscar.equals(codcentre)) {
-					List<Confinats> confinats = covid.getConfinats();
 
 				}
 			}
